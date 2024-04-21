@@ -1,0 +1,24 @@
+.flex {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+}
+
+.btn{
+  padding-left: 80px;
+  padding-right: 80px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  font-size: 8px;
+  margin: 0;
+  text-align: center;
+  
+
+}
+.footer{
+  font-weight: bold;
+  text-align:center;
+}
+h1{
+  margin-bottom: 30px;
+}
